@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kheiner Murillo @kimmi1206
-- 👀 I’m interested in Java, Ruby on Rails, Python, Node.js, Devops
-- 🌱 I’m continuously learning Java, Python, Ruby on Rails, Elixir, Devops
+- 👀 I’m interested in Java, Ruby on Rails, Python, Go, Node.js, AWS, GCP Devops
+- 🌱 I’m continuously learning Java, Python, Javascript, Ruby on Rails, Go, Cloud, Devops
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me: https://www.linkedin.com/in/kheiner-murillo/
 
